@@ -92,10 +92,7 @@ Problem Solving, Teamwork, Communication, Time Management, Documentation
   <img src="https://raw.githubusercontent.com/mohammad-maaz-adil/mohammad-maaz-adil/output/snake.svg" alt="Snake animation" />
 </div>
 
-## 🎮 Fun Zone
-<div align="center">
-  <img src="https://github.com/mohammad-maaz-adil/mohammad-maaz-adil/blob/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-</div>
+
 ---
 
 ## 🌐 Connect with Me
