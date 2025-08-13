@@ -48,54 +48,45 @@ hobbies: ["Coding", "Tech Blogging", "Gaming", "Problem Solving", "Learning New 
 
 ## 🛠️ Tech Stack 🛠️
 
-
-<summary>⚡ Frontend Technologies</summary>
-<br>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,sass,jquery,figma&perline=5" />
-</p>
-
-
 <details>
-<summary>🔧 Backend Technologies</summary>
+<summary>💻 Programming Languages</summary>
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,flask,django,php&perline=4" />
+<img src="https://skillicons.dev/icons?i=js,html,css,java,python,c,mysql" />
+<img src="https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=database&logoColor=white" />
+<img src="https://img.shields.io/badge/Assembly%20(RISC--V)-blue?style=flat&logo=assemblyscript&logoColor=white" />
 </p>
 </details>
 
 <details>
-<summary>🗄️ Databases & Cloud</summary>
+<summary>📚 Frameworks & Libraries</summary>
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,aws,gcp,heroku&perline=4" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap" />
 </p>
 </details>
 
 <details>
-<summary>🔨 Tools & DevOps</summary>
+<summary>🛠 Tools & Technologies</summary>
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,vscode,linux,bash&perline=4" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,figma,vscode" />
+<img src="https://img.shields.io/badge/REST%20API%20Integration-orange?style=flat&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-blue?style=flat&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0f75bc?style=flat&logo=cisco&logoColor=white" />
 </p>
 </details>
 
 <details>
-<summary>🎨 Design & Others</summary>
+<summary>🤖 Automation Testing Tools</summary>
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=wordpress,photoshop,illustrator,figma,blender&perline=5" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white" />
 </p>
 </details>
 
-</div>
-
-
-## 🎨 Animated Tech Stack Marquee
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,jquery,figma,nodejs,express,java,python,mongodb,mysql,firebase,aws,git,github,postman,vscode,linux&perline=15" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=900&lines=I+love+turning+ideas+into+reality;Code+.+Debug+.+Deploy+.+Repeat;Creating+Impactful+Web+Applications+Everyday" alt="Typing Skills Animation" />
@@ -181,10 +172,34 @@ hobbies: ["Coding", "Tech Blogging", "Gaming", "Problem Solving", "Learning New 
 
 <div align="center">
 
-<!-- Interactive Hover Cards -->
+## 🚀 Featured Projects
 
-<!-- (Same hover code from before, not repeated here for space, but keep the exact inline style hover logic) -->
+<div align="center">
 
+<div style="display:inline-block; width:45%; margin:10px; padding:15px; border-radius:15px; border:2px solid #00D9FF; background-color:#0d1117; color:white; text-align:center; transition:all 0.3s ease;"
+onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px #00D9FF'; this.style.borderColor='#F7931E';"
+onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'; this.style.borderColor='#00D9FF';">
+<h3>🚗 AutoStop - Car Listings & Parts</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js" /><br><br>
+🏪 Car Listings & Parts<br>
+💡 Interactive UI Elements<br>
+📊 Responsive Design<br><br>
+<a href="https://autostop-pakwheels.netlify.app/">🔗 Live Demo</a> | 
+<a href="https://github.com/mohammad-maaz-adil/Pakwheels-CarListings-Parts">💻 GitHub Repo</a>
+</div>
+
+<div style="display:inline-block; width:45%; margin:10px; padding:15px; border-radius:15px; border:2px solid #00D9FF; background-color:#0d1117; color:white; text-align:center; transition:all 0.3s ease;"
+onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px #00D9FF'; this.style.borderColor='#F7931E';"
+onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'; this.style.borderColor='#00D9FF';">
+<h3>🎬 Netflix-Inspired Web App</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,css,js" /><br><br>
+🔐 User Authentication<br>
+🎥 Dynamic Trailer Fetching<br>
+📱 Responsive Design<br><br>
+<a href="https://github.com/mohammad-maaz-adil/Netflix-Inspired-Web-App">💻 GitHub Repo</a>
+</div>
+
+</div>
 </div>
 
 <div align="center">
