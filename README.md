@@ -117,7 +117,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 <a href="https://github.com/mohammad-maaz-adil/Netflix-Clone-with-trailer">🔗 View Project</a><br><br>
 </td>
 
-<td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<td width="50%" align="center" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
 <h3>🚗 AutoStop Car Platform</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -128,13 +128,13 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 💡 Interactive UI Elements<br>
 📊 Dynamic Filtering<br>
 🎨 PakWheels-inspired Design<br><br>
-<a href="https://autostop-pakwheels.netlify.app/">🔗 Live Demo</a>&nbsp;
+<a href="https://autostop-pakwheels.netlify.app/">🔗 Live Demo</a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/mohammad-maaz-adil/Pakwheels-CarListings-Parts">🔗 View Project</a><br><br>
 </td>
 </tr>
 
 <tr>
-<td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<td width="50%" align="center" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
 <h3>🤖 AI Resume Screener</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" />
@@ -148,7 +148,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 <a href="https://github.com/mohammad-maaz-adil/AI-Resume-Screener">🔗 View Project</a><br><br>
 </td>
 
-<td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<td width="50%" align="center" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
 <h3>🗺️ Smart City Navigator</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java" />
@@ -164,7 +164,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 </tr>
 
 <tr>
-<td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<td width="50%" align="center" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
 <h3>🌐 StartupScenee</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=wordpress,css,js" />
@@ -178,7 +178,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 <a href="https://startupscenee.com/">🔗 Live Website</a><br><br>
 </td>
 
-<td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<td width="50%" align="center" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
 <h3>🏠 Home Improvement Solutions</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=wordpress,css,js" />
