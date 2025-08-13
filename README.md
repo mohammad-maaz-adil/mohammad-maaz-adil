@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=50&section=header&animation=twinkling"/>
 </div>
 
 ---
@@ -41,7 +41,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=50&section=footer"/>
 </div>
 
 ---
@@ -77,7 +77,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 <summary>🔨 Tools & DevOps</summary>
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=5" />
 </p>
 </details>
 
@@ -85,7 +85,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 <summary>🎨 Design & Others</summary>
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=wordpress,elementor,figma,&perline=5" />
+<img src="https://skillicons.dev/icons?i=wordpress,figma&perline=5" />
 </p>
 </details>
 
@@ -94,19 +94,19 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7931E&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7931E&height=50&section=footer"/>
 </div>
 
 <div align="center">
 
 ## 🚀 Featured Projects 🚀
 
-<table>
+<table style="padding: 50px;">
 <tr>
 <td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
 <h3>🎬 Netflix-Inspired Web App</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb" />
 </p>
 
 <b>Features:</b><br>
@@ -133,11 +133,11 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 </td>
 </tr>
 
-<tr>
+<tr style="padding:20px'">
 <td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
 <h3>🤖 AI Resume Screener</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 <b>Features:</b><br>
@@ -181,7 +181,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 <td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
 <h3>🏠 Home Improvement Solutions</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=wordpress,html,css" />
+<img src="https://skillicons.dev/icons?i=wordpress,css,js" />
 </p>
 
 <b>Features:</b><br>
@@ -197,7 +197,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=50&section=footer"/>
 </div>
 
 <div align="center">
@@ -215,7 +215,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB9&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB9&height=50&section=footer"/>
 </div>
 
 ---
@@ -229,7 +229,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=50&section=footer"/>
 </div>
 
 ---
@@ -244,7 +244,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 * 🌐 Maintained WordPress sites with performance optimization.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=50&section=footer"/>
 </div>
 
 ---
@@ -268,7 +268,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=50&section=footer"/>
 </div>
 
 ## 🐍 Contribution Snake Game
@@ -278,7 +278,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=50&section=footer"/>
 </div>
 
 ---
@@ -290,14 +290,14 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=50&section=footer"/>
 </div>
 
 ---
 
 ## 🌐 Let's Connect 🌐
 
-<p align="center">
+<p align="center" padding="20px" >
 <a href="https://www.linkedin.com/in/mohammad-maaz-adil">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
