@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&animation=twinkling"/>
 </div>
 
 ---
@@ -22,7 +22,7 @@
 
 ## 🌟 Welcome To My Repository 🌟
 
-<img width="50%" align="right" alt="Github Image"  src="https://raw.githubusercontent.com/mohammad-maaz-adil/assets/main/coding-terminal.gif" />
+<img width="50%" align="right" alt="Github Image"  src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" />
 
 ```yaml
 name: Mohammad Maaz Adil
@@ -103,7 +103,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 
 <table>
 <tr>
-<td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117; padding-top: 15px; padding-bottom: 15px; padding-left: 15px; padding-right: 15px">
 <h3>🎬 Netflix-Inspired Web App</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb" />
