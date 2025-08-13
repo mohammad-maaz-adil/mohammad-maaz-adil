@@ -1,21 +1,3 @@
-<style>
-.tech-icon {
-  display: inline-block;
-  margin: 15px;
-  text-align: center;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-.tech-icon img {
-  width: 60px;
-  height: 60px;
-}
-.tech-icon:hover {
-  transform: scale(1.15);
-  box-shadow: 0 0 15px #00D9FF;
-  border-radius: 10px;
-}
-</style>
-
 <div align="center">
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Maaz+Adil;Full+Stack+Developer;AI+%26+ML+Explorer;SQA+Tester;Problem+Solver;Code+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" />
@@ -53,48 +35,48 @@
 
 ### ⚡ Frontend Technologies
 <p align="center">
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=html" /><br>HTML5</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=css" /><br>CSS3</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=react" /><br>React.js</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=bootstrap" /><br>Bootstrap</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind CSS</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=jquery" /><br>jQuery</span>
+<img src="https://skillicons.dev/icons?i=html" /><br>HTML5
+<img src="https://skillicons.dev/icons?i=css" /><br>CSS3
+<img src="https://skillicons.dev/icons?i=js" /><br>JavaScript
+<img src="https://skillicons.dev/icons?i=react" /><br>React.js
+<img src="https://skillicons.dev/icons?i=bootstrap" /><br>Bootstrap
+<img src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind CSS
+<img src="https://skillicons.dev/icons?i=jquery" /><br>jQuery
 </p>
 
 ### 🔧 Backend Technologies
 <p align="center">
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=express" /><br>Express.js</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=java" /><br>Java</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=python" /><br>Python</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=flask" /><br>Flask</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=php" /><br>PHP</span>
+<img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js
+<img src="https://skillicons.dev/icons?i=express" /><br>Express.js
+<img src="https://skillicons.dev/icons?i=java" /><br>Java
+<img src="https://skillicons.dev/icons?i=python" /><br>Python
+<img src="https://skillicons.dev/icons?i=flask" /><br>Flask
+<img src="https://skillicons.dev/icons?i=php" /><br>PHP
 </p>
 
 ### 🗄️ Databases & Cloud
 <p align="center">
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=mongodb" /><br>MongoDB</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=firebase" /><br>Firebase</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=aws" /><br>AWS</span>
+<img src="https://skillicons.dev/icons?i=mongodb" /><br>MongoDB
+<img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL
+<img src="https://skillicons.dev/icons?i=firebase" /><br>Firebase
+<img src="https://skillicons.dev/icons?i=aws" /><br>AWS
 </p>
 
 ### 🔨 Tools & DevOps
 <p align="center">
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=git" /><br>Git</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=docker" /><br>Docker</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=postman" /><br>Postman</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=linux" /><br>Linux</span>
+<img src="https://skillicons.dev/icons?i=git" /><br>Git
+<img src="https://skillicons.dev/icons?i=github" /><br>GitHub
+<img src="https://skillicons.dev/icons?i=docker" /><br>Docker
+<img src="https://skillicons.dev/icons?i=postman" /><br>Postman
+<img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code
+<img src="https://skillicons.dev/icons?i=linux" /><br>Linux
 </p>
 
 ### 🎨 Design & Others
 <p align="center">
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=figma" /><br>Figma</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=wordpress" /><br>WordPress</span>
-<span class="tech-icon"><img src="https://skillicons.dev/icons?i=photoshop" /><br>Photoshop</span>
+<img src="https://skillicons.dev/icons?i=figma" /><br>Figma
+<img src="https://skillicons.dev/icons?i=wordpress" /><br>WordPress
+<img src="https://skillicons.dev/icons?i=photoshop" /><br>Photoshop
 </p>
 
 ---
@@ -128,6 +110,8 @@ onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'; this.s
 <a href="https://github.com/mohammad-maaz-adil/Netflix-Inspired-Web-App">💻 GitHub Repo</a>
 </div>
 
+<!-- Add other projects in same card style -->
+
 </div>
 
 ---
@@ -158,6 +142,8 @@ onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'; this.s
 
 ---
 
+<img src="https://img.shields.io/static/v1?label=&message=══════════════════════════════════════════════════════════════════════════════════&color=00D9FF" />
+
 ## 🌐 Let's Connect
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammad-maaz-adil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -166,6 +152,8 @@ onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'; this.s
 </p>
 
 ---
+
+<img src="https://img.shields.io/static/v1?label=&message=══════════════════════════════════════════════════════════════════════════════════&color=00D9FF" />
 
 ## 💡 Fun Facts About Me
 <p align="center">
