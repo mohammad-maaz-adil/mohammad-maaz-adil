@@ -101,9 +101,9 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 
 ## 🚀 Featured Projects 🚀
 
-<table align="center">
+<table>
 <tr>
-<td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117; text-align:center; ">
+<td width="50%" align="center" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117; ">
 <h3>🎬 Netflix-Inspired Web App</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb" />
@@ -129,7 +129,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 📊 Dynamic Filtering<br>
 🎨 PakWheels-inspired Design<br><br>
 <a href="https://autostop-pakwheels.netlify.app/">🔗 Live Demo</a>&nbsp;
-<a href="https://github.com/mohammad-maaz-adil/Pakwheels-CarListings-Parts">🔗 View Project</a>
+<a href="https://github.com/mohammad-maaz-adil/Pakwheels-CarListings-Parts">🔗 View Project</a><br><br>
 </td>
 </tr>
 
@@ -145,7 +145,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 📊 Automated Scoring<br>
 📋 Detailed Reports<br>
 ⚡ Fast Processing<br><br>
-<a href="https://github.com/mohammad-maaz-adil/AI-Resume-Screener">🔗 View Project</a>
+<a href="https://github.com/mohammad-maaz-adil/AI-Resume-Screener">🔗 View Project</a><br><br>
 </td>
 
 <td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
@@ -159,7 +159,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 🛣️ Intelligent Route Planning<br>
 📍 Multi-location Support<br>
 ⚡ Optimized Pathfinding<br><br>
-<a href="https://github.com/mohammad-maaz-adil/JAVA-DSA-BFS-GRAPH-TRAVERSAL">🔗 View Project</a>
+<a href="https://github.com/mohammad-maaz-adil/JAVA-DSA-BFS-GRAPH-TRAVERSAL">🔗 View Project</a><br><br>
 </td>
 </tr>
 
@@ -175,7 +175,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 💼 Business Consultancy<br>
 🔍 SEO Optimization<br>
 📱 Responsive Design<br><br>
-<a href="https://startupscenee.com/">🔗 Live Website</a>
+<a href="https://startupscenee.com/">🔗 Live Website</a><br><br>
 </td>
 
 <td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
@@ -189,7 +189,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 📝 Contact Forms<br>
 🔍 SEO Optimized<br>
 🇺🇸 U.S. Market Focus<br><br>
-<a href="https://atozhomeimprovementsolutions.com/">🔗 Live Website</a>
+<a href="https://atozhomeimprovementsolutions.com/">🔗 Live Website</a><br><br>
 </td>
 </tr>
 </table>
