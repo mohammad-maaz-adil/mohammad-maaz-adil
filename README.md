@@ -22,7 +22,7 @@
 
 ## 🌟 Welcome To My Repository 🌟
 
-<img width="50%" height="100px" align="right" alt="Github Image"  src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" />
+<img width="50%" height="250px" align="right" alt="Github Image"  src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" />
 
 ```yaml
 name: Mohammad Maaz Adil
@@ -101,9 +101,9 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 
 ## 🚀 Featured Projects 🚀
 
-<table style="padding: 20px;">
+<table>
 <tr>
-<td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117; ">
+<td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117; ">
 <h3>🎬 Netflix-Inspired Web App</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb" />
@@ -117,7 +117,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 <a href="https://github.com/mohammad-maaz-adil/Netflix-Clone-with-trailer">🔗 View Project</a>
 </td>
 
-<td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
 <h3>🚗 AutoStop Car Platform</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -128,13 +128,13 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 💡 Interactive UI Elements<br>
 📊 Dynamic Filtering<br>
 🎨 PakWheels-inspired Design<br><br>
-<a href="https://autostop-pakwheels.netlify.app/">🔗 Live Demo</a>
+<a href="https://autostop-pakwheels.netlify.app/">🔗 Live Demo</a>&nbsp;
 <a href="https://github.com/mohammad-maaz-adil/Pakwheels-CarListings-Parts">🔗 View Project</a>
 </td>
 </tr>
 
-<tr style="padding:20px'">
-<td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<tr style="padding:20px;">
+<td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
 <h3>🤖 AI Resume Screener</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" />
@@ -148,7 +148,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 <a href="https://github.com/mohammad-maaz-adil/AI-Resume-Screener">🔗 View Project</a>
 </td>
 
-<td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
 <h3>🗺️ Smart City Navigator</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java" />
@@ -164,7 +164,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 </tr>
 
 <tr>
-<td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
 <h3>🌐 StartupScenee</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=wordpress,css,js" />
@@ -178,7 +178,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 <a href="https://startupscenee.com/">🔗 Live Website</a>
 </td>
 
-<td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
 <h3>🏠 Home Improvement Solutions</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=wordpress,css,js" />
