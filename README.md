@@ -22,7 +22,7 @@
 
 ## 🌟 Welcome To My Repository 🌟
 
-<img width="50%" height="50%" align="right" alt="Github Image"  src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" />
+<img width="50%" height="100px" align="right" alt="Github Image"  src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" />
 
 ```yaml
 name: Mohammad Maaz Adil
