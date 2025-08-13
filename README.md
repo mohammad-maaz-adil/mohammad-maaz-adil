@@ -1,19 +1,19 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Maaz+Adil;Full+Stack+Developer;AI+%26+ML+Explorer;SQA+Tester;Problem+Solver;Code+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Maaz+Adil;Full+Stack+Software+Engineer;AI+%26+ML+Explorer;SQA+Tester;Problem+Solver" alt="Typing SVG" />
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling"/>
 </div>
 
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-maaz-adil&label=Profile%20Views&color=brightgreen&style=for-the-badge)
   ![Followers](https://img.shields.io/github/followers/mohammad-maaz-adil?label=Followers&style=for-the-badge&color=blue)
-  ![Coding Since](https://img.shields.io/badge/Coding%20Since-2020-blue?style=for-the-badge&logo=github)
+  ![Coding Since](https://img.shields.io/badge/Coding%20Since-2021-blue?style=for-the-badge&logo=github)
   
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling"/>
 </div>
 
 ---
@@ -22,19 +22,20 @@
 
 ## 🌟 Welcome To My Repository 🌟
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github Image" src="https://path-to-your-coding-gif.gif" />
 
 ```yaml
 name: Mohammad Maaz Adil
 located_in: Karachi, Pakistan
-current_role: Full Stack Developer
-education: ["Bachelor of Computer Science - DHA Suffa University", "Self-taught Developer"]
+current_role: Full Stack Software Engineer
+education: ["Bachelor of Computer Science - DHA Suffa University"]
 
-fields_of_interests: ["Web Development", "AI/ML", "Cloud Computing", "DevOps", "Open Source", "SQA"]
-technical_background: ["Frontend & Backend Development", "Database Design", "REST API Integration", "SQA Testing"]
-currently_learning: ["Advanced React Patterns", "Microservices", "Kubernetes", "AWS Solutions Architecture"]
+fields_of_interests: ["Web Development", "SQA", "AI/ML", "Cloud Computing", "DevOps", "Open Source"]
+technical_background: ["Frontend & Backend Development", "SQA Testing", "Database Design", "REST API Integration"]
+currently_learning: ["Advanced React Patterns", "AWS Solutions Architecture"]
 2025_goals: ["Launch SaaS Product", "Contribute to Open Source", "Improve AI/ML Skills", "Master Cloud Architecture"]
-hobbies: ["Coding", "Tech Blogging", "Gaming", "Problem Solving", "Learning New Technologies"]
+hobbies: ["Coding", "Tech Blogging", "Gaming", "Learning New Technologies", "Cricket"]
+soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management", "Documentation"]
 ````
 
 </div>
@@ -52,9 +53,7 @@ hobbies: ["Coding", "Tech Blogging", "Gaming", "Problem Solving", "Learning New 
 <summary>💻 Programming Languages</summary>
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,java,python,c,mysql" />
-<img src="https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=database&logoColor=white" />
-<img src="https://img.shields.io/badge/Assembly%20(RISC--V)-blue?style=flat&logo=assemblyscript&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c" />
 </p>
 </details>
 
@@ -67,26 +66,28 @@ hobbies: ["Coding", "Tech Blogging", "Gaming", "Problem Solving", "Learning New 
 </details>
 
 <details>
-<summary>🛠 Tools & Technologies</summary>
+<summary>🗄️ Databases & Cloud</summary>
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,figma,vscode" />
-<img src="https://img.shields.io/badge/REST%20API%20Integration-orange?style=flat&logo=swagger&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-blue?style=flat&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0f75bc?style=flat&logo=cisco&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,gcp&perline=4" />
 </p>
 </details>
 
 <details>
-<summary>🤖 Automation Testing Tools</summary>
+<summary>🔨 Tools & DevOps</summary>
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&perline=5" />
 </p>
 </details>
 
+<details>
+<summary>🎨 Design & Others</summary>
+<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=wordpress,elementor,figma,&perline=5" />
+</p>
+</details>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=900&lines=I+love+turning+ideas+into+reality;Code+.+Debug+.+Deploy+.+Repeat;Creating+Impactful+Web+Applications+Everyday" alt="Typing Skills Animation" />
@@ -96,7 +97,108 @@ hobbies: ["Coding", "Tech Blogging", "Gaming", "Problem Solving", "Learning New 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7931E&height=80&section=footer"/>
 </div>
 
----
+<div align="center">
+
+## 🚀 Featured Projects 🚀
+
+<table>
+<tr>
+<td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<h3>🎬 Netflix-Inspired Web App</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,css,js" />
+</p>
+
+<b>Features:</b><br>
+🔐 User Authentication<br>
+🎥 Dynamic Trailer Fetching<br>
+📱 Responsive Design<br>
+🔍 Advanced Search<br><br>
+<a href="https://github.com/mohammad-maaz-adil/Netflix-Clone-with-trailer">🔗 View Project</a>
+</td>
+
+<td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<h3>🚗 AutoStop Car Platform</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<b>Features:</b><br>
+🏪 Car Listings & Parts<br>
+💡 Interactive UI Elements<br>
+📊 Dynamic Filtering<br>
+🎨 PakWheels-inspired Design<br><br>
+<a href="https://autostop-pakwheels.netlify.app/">🔗 Live Demo</a>
+<a href="https://github.com/mohammad-maaz-adil/Pakwheels-CarListings-Parts">🔗 View Project</a>
+</td>
+</tr>
+
+<tr>
+<td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<h3>🤖 AI Resume Screener</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+<b>Features:</b><br>
+🧠 NLP-powered Analysis<br>
+📊 Automated Scoring<br>
+📋 Detailed Reports<br>
+⚡ Fast Processing<br><br>
+<a href="https://github.com/mohammad-maaz-adil/AI-Resume-Screener">🔗 View Project</a>
+</td>
+
+<td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<h3>🗺️ Smart City Navigator</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+<b>Features:</b><br>
+🔍 BFS Graph Traversal<br>
+🛣️ Intelligent Route Planning<br>
+📍 Multi-location Support<br>
+⚡ Optimized Pathfinding<br><br>
+<a href="https://github.com/mohammad-maaz-adil/JAVA-DSA-BFS-GRAPH-TRAVERSAL">🔗 View Project</a>
+</td>
+</tr>
+
+<tr>
+<td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<h3>🌐 StartupScenee</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=wordpress,css,js" />
+</p>
+
+<b>Features:</b><br>
+🌍 Multilingual Support<br>
+💼 Business Consultancy<br>
+🔍 SEO Optimization<br>
+📱 Responsive Design<br><br>
+<a href="https://startupscenee.com/">🔗 Live Website</a>
+</td>
+
+<td width="45%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
+<h3>🏠 Home Improvement Solutions</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=wordpress,html,css" />
+</p>
+
+<b>Features:</b><br>
+🛠️ Service Showcase<br>
+📝 Contact Forms<br>
+🔍 SEO Optimized<br>
+🇺🇸 U.S. Market Focus<br><br>
+<a href="https://atozhomeimprovementsolutions.com/">🔗 Live Website</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=80&section=footer"/>
+</div>
 
 <div align="center">
 
@@ -150,13 +252,16 @@ hobbies: ["Coding", "Tech Blogging", "Gaming", "Problem Solving", "Learning New 
 ## 🖥️ Skills Overview 🖥️
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -165,48 +270,6 @@ hobbies: ["Coding", "Tech Blogging", "Gaming", "Problem Solving", "Learning New 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=footer"/>
 </div>
-
----
-
-## 🚀 Featured Projects 🚀
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<div style="display:inline-block; width:45%; margin:10px; padding:15px; border-radius:15px; border:2px solid #00D9FF; background-color:#0d1117; color:white; text-align:center; transition:all 0.3s ease;"
-onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px #00D9FF'; this.style.borderColor='#F7931E';"
-onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'; this.style.borderColor='#00D9FF';">
-<h3>🚗 AutoStop - Car Listings & Parts</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js" /><br><br>
-🏪 Car Listings & Parts<br>
-💡 Interactive UI Elements<br>
-📊 Responsive Design<br><br>
-<a href="https://autostop-pakwheels.netlify.app/">🔗 Live Demo</a> | 
-<a href="https://github.com/mohammad-maaz-adil/Pakwheels-CarListings-Parts">💻 GitHub Repo</a>
-</div>
-
-<div style="display:inline-block; width:45%; margin:10px; padding:15px; border-radius:15px; border:2px solid #00D9FF; background-color:#0d1117; color:white; text-align:center; transition:all 0.3s ease;"
-onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px #00D9FF'; this.style.borderColor='#F7931E';"
-onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'; this.style.borderColor='#00D9FF';">
-<h3>🎬 Netflix-Inspired Web App</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,css,js" /><br><br>
-🔐 User Authentication<br>
-🎥 Dynamic Trailer Fetching<br>
-📱 Responsive Design<br><br>
-<a href="https://github.com/mohammad-maaz-adil/Netflix-Inspired-Web-App">💻 GitHub Repo</a>
-</div>
-
-</div>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=80&section=footer"/>
-</div>
-
----
 
 ## 🐍 Contribution Snake Game
 
@@ -235,13 +298,38 @@ onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'; this.s
 ## 🌐 Let's Connect 🌐
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mohammad-maaz-adil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:maazadil123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/mohammad-maaz-adil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohammad-maaz-adil">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:maazadil123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/mohammad-maaz-adil">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+  
+<a href="https://www.facebook.com/maaz.adil123">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+  
+<a href="https://x.com/maaz_adil79">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/maaz_adil79">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://app.netlify.com/teams/mohammad-maaz-adil/projects">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=60&section=footer"/>
 </div>
 
 ---
