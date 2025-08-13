@@ -271,15 +271,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=60&section=footer"/>
 </div>
 
-## 🐍 Contribution Snake Game
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohammad-maaz-adil/mohammad-maaz-adil/output/snake.svg" alt="snake animation" />
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=60&section=footer"/>
-</div>
 
 ---
 
