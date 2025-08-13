@@ -101,7 +101,7 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 
 ## 🚀 Featured Projects 🚀
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117; text-align:center; ">
 <h3>🎬 Netflix-Inspired Web App</h3>
@@ -114,10 +114,8 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 🎥 Dynamic Trailer Fetching<br>
 📱 Responsive Design<br>
 🔍 Advanced Search<br><br>
-<a href="https://github.com/mohammad-maaz-adil/Netflix-Clone-with-trailer">🔗 View Project</a>
+<a href="https://github.com/mohammad-maaz-adil/Netflix-Clone-with-trailer">🔗 View Project</a><br><br>
 </td>
-
-<br>
 
 <td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
 <h3>🚗 AutoStop Car Platform</h3>
@@ -134,8 +132,6 @@ soft_skills: ["Problem Solving", "Teamwork", "Communication", "Time Management",
 <a href="https://github.com/mohammad-maaz-adil/Pakwheels-CarListings-Parts">🔗 View Project</a>
 </td>
 </tr>
-
-<br>
 
 <tr>
 <td width="50%" style="border: 2px solid #00D9FF; border-radius: 15px; padding: 15px; background-color: #0d1117;">
